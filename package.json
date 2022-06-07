@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "supertest": "^6.2.3"
+  }
+}
